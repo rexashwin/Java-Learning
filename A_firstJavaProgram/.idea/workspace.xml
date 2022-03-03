@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7308c524-888f-48b1-a4d9-4cdbe0c6d0d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/A_Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/B_Primitives.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/C_Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/D_StaticVariable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/E_Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/F_Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/G_TypeCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/H_CaseCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/H_Decision.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/H_LargestOfThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/I_Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/I_Loops_ForEach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/I_Loops_InfinitiveLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/I_Loops_LabeledFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/I_Loops_Pyramid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/K_Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/K_CountOccurrences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/K_Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/K_ReverseNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/L_NestedSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/L_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/_Syllabus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/A_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/BB_NonPrimitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/B_Primitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/C_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/D_StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/E_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/F_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/G_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/H_CaseCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/H_Decision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/H_LargestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/I_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/I_Loops_ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/I_Loops_InfinitiveLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/I_Loops_LabeledFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/I_Loops_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/K_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/K_CountOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/K_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/K_ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/L_NestedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/L_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/src/com/rexashwin/_Syllabus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/NonPrimitive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/A_Class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/B_ReferenceClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/C_DefaultValueOfNonPrimitives.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/D_WrapperClassAutoboxingUnboxing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/point2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/point3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/src/com/rexashwin/A_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/src/com/rexashwin/B_ReferenceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/src/com/rexashwin/C_DefaultValueOfNonPrimitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/src/com/rexashwin/D_WrapperClassAutoboxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/A_Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/B_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/C_OriginalValueDoesntChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/D_ChangeValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/E_Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/F_Shadowing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/G_VariableArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/H_Overloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/I_PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/A_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/B_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/C_OriginalValueDoesntChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/D_ChangeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/E_Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/F_Shadowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/G_VariableArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/H_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/src/com/rexashwin/I_PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/JavaArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/A_Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/B_Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/C_PassingInFunctions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/D_MultiDimension.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/E_ColNotFixed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/F_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/G_MaxOfArrayElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/G_SwapArrayElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/A_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/B_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/C_PassingInFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/D_MultiDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/E_ColNotFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/F_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/G_MaxOfArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/src/com/rexashwin/G_SwapArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/JavaBasicPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/A_EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/B_greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/C_SimpleInterest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/D_Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/E_LargestOfThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/F_Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/G_Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/H_Armstrong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/I_SubtractProductAndSumOfDigitOfNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/J_FactorsOfNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/K_SumOfAllInputs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/L_LargestOfAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/M_Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/N_NPR_NCR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/O_ReverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/A_EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/B_greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/C_SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/D_Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/E_LargestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/F_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/G_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/H_Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/I_SubtractProductAndSumOfDigitOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/J_FactorsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/K_SumOfAllInputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/L_LargestOfAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/M_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/N_NPR_NCR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/src/com/rexashwin/O_ReverseString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25gIpcchDOmGXodo3eF6bXZij7y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7308c524-888f-48b1-a4d9-4cdbe0c6d0d7" name="Changes" comment="" />
+      <created>1645942487557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645942487557</updated>
+    </task>
+    <servers />
+  </component>
+</project>
