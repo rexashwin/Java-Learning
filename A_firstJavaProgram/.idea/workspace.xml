@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7308c524-888f-48b1-a4d9-4cdbe0c6d0d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_firstJavaProgram.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Demo.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Demo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Main.class" afterDir="false" />
@@ -13,6 +19,7 @@
       <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B_first-idea-program/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/A_Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/B_Primitives.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../B_first-idea-program/out/production/untitled104/com/rexashwin/C_Variable.class" afterDir="false" />
@@ -66,6 +73,7 @@
       <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/NonPrimitive.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/A_Class.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../C_NonPrimitive/out/production/NonPrimitive/com/rexashwin/B_ReferenceClass.class" afterDir="false" />
@@ -84,6 +92,7 @@
       <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../D_JavaMethods/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/A_Sum.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/B_String.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../D_JavaMethods/out/production/untitled104/com/rexashwin/C_OriginalValueDoesntChange.class" afterDir="false" />
@@ -109,8 +118,8 @@
       <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E_JavaArray/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../E_JavaArray/JavaArray.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/A_Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../E_JavaArray/out/production/JavaArray/com/rexashwin/B_Input.class" afterDir="false" />
@@ -135,6 +144,7 @@
       <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/JavaBasicPractice.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/A_EvenOdd.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaBasicPractice/out/production/JavaBasicPractice/com/rexashwin/B_greeting.class" afterDir="false" />

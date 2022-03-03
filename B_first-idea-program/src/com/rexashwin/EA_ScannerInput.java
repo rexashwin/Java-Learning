@@ -2,7 +2,7 @@ package com.rexashwin;
 
 import java.util.Scanner;
 
-public class E_ScannerInput {
+public class EA_ScannerInput {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 

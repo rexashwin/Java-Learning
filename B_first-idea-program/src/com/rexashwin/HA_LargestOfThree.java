@@ -2,7 +2,7 @@ package com.rexashwin;
 
 import java.util.Scanner;
 
-public class H_LargestOfThree {
+public class HA_LargestOfThree {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

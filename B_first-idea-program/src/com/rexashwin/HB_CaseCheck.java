@@ -2,7 +2,7 @@ package com.rexashwin;
 
 import java.util.Scanner;
 
-public class HH_CaseCheck {
+public class HB_CaseCheck {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         char letter = input.next().trim().charAt(0);

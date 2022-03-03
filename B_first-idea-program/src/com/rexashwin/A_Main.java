@@ -6,9 +6,5 @@ public class A_Main {
         System.out.print("another line");
         System.out.println(3456);
 
-
-//        ## output using format method
-        int 100;
-        System.out.format();
     }
 }
