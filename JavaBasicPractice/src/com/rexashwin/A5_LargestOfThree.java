@@ -12,11 +12,18 @@ public class A5_LargestOfThree {
         a = in.nextInt();
         b = in.nextInt();
         c = in.nextInt();
+
+//        ##using decision-making statements
         if(a>b && a>c)
             System.out.println(a);
         else if(b>a && b>c)
             System.out.println(b);
         else
             System.out.println(c);
+
+//        ##using Math function
+        int ans1 = Math.max(a,b);
+        int ans = Math.max(ans1, c);
+        System.out.println(ans);
     }
 }
