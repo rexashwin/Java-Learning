@@ -18,7 +18,7 @@ public class C7_AllDivisors {
             if(num%i==0){
                 System.out.println(i);
                 if (i != num/i)
-                    System.out.println(num/i);
+                    System.out.println(num/i); 
             }
         }
 
