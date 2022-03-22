@@ -7,13 +7,15 @@ public class I_PrimeNumber {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
 
-        System.out.println(isPrime(n));
+        System.out.println("Prime? - " + isPrime(n));
 
-        System.out.println(isArmstrong(n));
+        System.out.println("Armstrong? - " + isArmstrong(n));
 
+//        print all the three digit armstrong number\
+        System.out.print("all three digit armstrong numbers are:\t");
         for (int i=100; i<=1000; i++){
             if (isArmstrong(i)){
-                System.out.print(i + "\t");
+                System.out.print(i + ",\t");
             }
         }
     }
@@ -39,12 +41,13 @@ public class I_PrimeNumber {
                 return false;
             c++;
         }
+        return true;
 //        if (c * c > n)
 //            return true;
 //        return false;
 
         // simplified last if statement
-        return c * c > n;
+//        return c * c > n;
     }
 
 
